@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: ANISE KINSELLA A K</h3>
+<h3>Name: ANISE KINSELLA A </h3>
 <h3>Register Number: 212225040021</h3>
 
 
